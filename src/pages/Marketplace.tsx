@@ -90,7 +90,7 @@ export default function Marketplace() {
   }
 
   return (
-    <div className="container mx-auto max-w-md px-4 py-8 min-h-screen relative">
+    <div className="container mx-auto max-w-lg px-4 py-8 min-h-screen relative">
       <FloatingParticles quantity={15} type="mixed" speed="slow" />
       
       {/* Header */}

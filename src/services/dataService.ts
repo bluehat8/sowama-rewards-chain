@@ -102,6 +102,15 @@ export const products: Product[] = [
     eco: true,
     category: "Educación",
   },
+  {
+    id: "prod7",
+    name: "Buzz Lightyear",
+    description: "Buzz ligth year game",
+    image: "/placeholder.svg",
+    points: 150,
+    eco: true,
+    category: "Entretenimiento",
+  },
 ];
 
 // Environmental projects
